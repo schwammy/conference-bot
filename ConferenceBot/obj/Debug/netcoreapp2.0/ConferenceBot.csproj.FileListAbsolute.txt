@@ -1,0 +1,22 @@
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.deps.json
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.runtimeconfig.json
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.runtimeconfig.dev.json
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.dll
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.csprojAssemblyReference.cache
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.csproj.CoreCompileInputs.cache
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.AssemblyInfoInputs.cache
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.AssemblyInfo.cs
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.pdb
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.dll
+f:\users\andy\documents\visual studio 2017\Projects\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.pdb
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.deps.json
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.runtimeconfig.json
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.runtimeconfig.dev.json
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.dll
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\bin\Debug\netcoreapp2.0\ConferenceBot.pdb
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.csprojAssemblyReference.cache
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.csproj.CoreCompileInputs.cache
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.AssemblyInfoInputs.cache
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.AssemblyInfo.cs
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.dll
+C:\Users\andys\source\repos\ConferenceBot\ConferenceBot\obj\Debug\netcoreapp2.0\ConferenceBot.pdb
